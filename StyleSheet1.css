@@ -1,0 +1,54 @@
+﻿.border {
+    border: dashed;
+    color: white;
+    width: 200px;
+    height: 250px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+
+.ortali-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 480px;
+    background-color: black;
+    transform: translate(-50%,-50%);
+}
+
+.bodycolor{
+
+    background-color:black;
+}
+
+.textwidth{
+    border:inherit;
+    width:369px;
+    background-color:black;
+    border-color:gray;
+    border-radius:5px;
+}
+
+.labelcolor{
+    color:gray;
+}
+
+.savebutton{
+    width:369px;
+    height:47px;
+    color:white;
+    background-color:green;
+  
+}
+
+.labelboyut{
+
+    font-weight:600;
+
+}
+
+.textcolor{
+    color:white;
+}
